@@ -1,0 +1,15 @@
+/* Importing Roboto font  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+    /* Adding a new font */
+    --font-robot: "Roboto", sans-serif;
+
+    /* Creating a new color theme */
+    --color-magenta: #cc338b;
+    --color-magenta-dark: #8d008b;
+
+    
+}
